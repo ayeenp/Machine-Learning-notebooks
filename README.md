@@ -1,5 +1,5 @@
 # Machine-Learning-notebooks
-####Machine Learning Course Notebooks: Model and Algorithm Implementations and Experiments
+Machine Learning Course Notebooks: Model and Algorithm Implementations and Experiments
 
 ## 1.1-Polynomial Regression & Bias-Variance Tradeoff
 Implemented polynomial regression and explored the bias-variance tradeoff using insurance data.
