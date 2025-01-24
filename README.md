@@ -26,10 +26,10 @@ Implemented and compared different optimization algorithms like SGD with momentu
 Implemented and compared MobileNetV1 and MobileNetV2 architectures for image classification.
 
 ## 5.1-Skipgram
-Implemented the Skip-gram model for word embeddings using the Word2Vec algorithm.
+Implemented the Skip-gram model for word embeddings using the Word2Vec architecture.
 
 ## 5.2-Transformer-BERT-LoRA
-Implemented transformer models, BERT, and LoRA techniques.
+Implemented transformer models, BERT, and LoRA architectures.
 
 ## 6-Knowledge Distillation using Contrastive Learning
 Implemented knowledge distillation using contrastive learning to transfer knowledge from a large model to a smaller one.
